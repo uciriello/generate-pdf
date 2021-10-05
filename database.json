@@ -1,0 +1,663 @@
+{
+    "reportData": "2021-10-10",
+    "sensors":[
+        {
+            "name": "Foilar moistening",
+            "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/How_to_use_icon.svg/2214px-How_to_use_icon.svg.png",
+            "data":[
+                {
+                    "UDM": "°C",
+                    "samples": [
+                        {   
+                            "value": 28,
+                            "data": "2021-10-04",
+                            "alert": "primary medium infection"
+                        },
+                        {   
+                            "value": 25,
+                            "data": "2021-10-05",
+                            "alert": "primary medium infection"
+                        },
+                        {   
+                            "value": 25,
+                            "data": "2021-10-06"
+                        },
+                        {   
+                            "value": 23,
+                            "data": "2021-10-07"
+                        },
+                        {   
+                            "value": 23,
+                            "data": "2021-10-08",
+                            "alert": "primary strong infection"
+                        },
+                        {   
+                            "value": 26,
+                            "data": "2021-10-09",
+                            "alert": "primary medium infection"
+                        },
+                        {   
+                            "value": 30,
+                            "data": "2021-10-10",
+                            "alert": "primary medium infection"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Ground temperature",
+            "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/How_to_use_icon.svg/2214px-How_to_use_icon.svg.png",
+            "data":[
+                {      
+                    "UDM": "°C",
+                    "samples": [
+                        {   
+                            "value": 28,
+                            "data": "2021-10-04",
+                            "alert": "primary medium infection"
+                        },
+                        {   
+                            "value": 25,
+                            "data": "2021-10-05",
+                            "alert": "primary medium infection"
+                        },
+                        {   
+                            "value": 25,
+                            "data": "2021-10-06"
+                        },
+                        {   
+                            "value": 23,
+                            "data": "2021-10-07"
+                        },
+                        {   
+                            "value": 23,
+                            "data": "2021-10-08",
+                            "alert": "primary strong infection"
+                        },
+                        {   
+                            "value": 26,
+                            "data": "2021-10-09",
+                            "alert": "primary medium infection"
+                        },
+                        {   
+                            "value": 30,
+                            "data": "2021-10-10",
+                            "alert": "primary medium infection"
+                        }
+                    ]
+                },
+                {
+                    "UDM": "°C",
+                    "samples": [
+                        {   
+                            "value": 28,
+                            "data": "2021-10-04",
+                            "alert": "primary medium infection"
+                        },
+                        {   
+                            "value": 25,
+                            "data": "2021-10-05",
+                            "alert": "primary medium infection"
+                        },
+                        {   
+                            "value": 25,
+                            "data": "2021-10-06"
+                        },
+                        {   
+                            "value": 23,
+                            "data": "2021-10-07"
+                        },
+                        {   
+                            "value": 23,
+                            "data": "2021-10-08",
+                            "alert": "primary strong infection"
+                        },
+                        {   
+                            "value": 26,
+                            "data": "2021-10-09",
+                            "alert": "primary medium infection"
+                        },
+                        {   
+                            "value": 30,
+                            "data": "2021-10-10",
+                            "alert": "primary medium infection"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Foilar moistening",
+            "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/How_to_use_icon.svg/2214px-How_to_use_icon.svg.png",
+            "data":[
+                {
+                    "UDM": "°C",
+                    "samples": [
+                        {   
+                            "value": 28,
+                            "data": "2021-10-04",
+                            "alert": "primary medium infection"
+                        },
+                        {   
+                            "value": 25,
+                            "data": "2021-10-05",
+                            "alert": "primary medium infection"
+                        },
+                        {   
+                            "value": 25,
+                            "data": "2021-10-06"
+                        },
+                        {   
+                            "value": 23,
+                            "data": "2021-10-07"
+                        },
+                        {   
+                            "value": 23,
+                            "data": "2021-10-08",
+                            "alert": "primary strong infection"
+                        },
+                        {   
+                            "value": 26,
+                            "data": "2021-10-09",
+                            "alert": "primary medium infection"
+                        },
+                        {   
+                            "value": 30,
+                            "data": "2021-10-10",
+                            "alert": "primary medium infection"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Foilar moistening",
+            "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/How_to_use_icon.svg/2214px-How_to_use_icon.svg.png",
+            "data":[
+                {
+                    "UDM": "°C",
+                    "samples": [
+                        {   
+                            "value": 28,
+                            "data": "2021-10-04",
+                            "alert": "primary medium infection"
+                        },
+                        {   
+                            "value": 25,
+                            "data": "2021-10-05",
+                            "alert": "primary medium infection"
+                        },
+                        {   
+                            "value": 25,
+                            "data": "2021-10-06"
+                        },
+                        {   
+                            "value": 23,
+                            "data": "2021-10-07"
+                        },
+                        {   
+                            "value": 23,
+                            "data": "2021-10-08",
+                            "alert": "primary strong infection"
+                        },
+                        {   
+                            "value": 26,
+                            "data": "2021-10-09",
+                            "alert": "primary medium infection"
+                        },
+                        {   
+                            "value": 30,
+                            "data": "2021-10-10",
+                            "alert": "primary medium infection"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Foilar moistening",
+            "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/How_to_use_icon.svg/2214px-How_to_use_icon.svg.png",
+            "data":[
+                {
+                    "UDM": "°C",
+                    "samples": [
+                        {   
+                            "value": 28,
+                            "data": "2021-10-04",
+                            "alert": "primary medium infection"
+                        },
+                        {   
+                            "value": 25,
+                            "data": "2021-10-05",
+                            "alert": "primary medium infection"
+                        },
+                        {   
+                            "value": 25,
+                            "data": "2021-10-06"
+                        },
+                        {   
+                            "value": 23,
+                            "data": "2021-10-07"
+                        },
+                        {   
+                            "value": 23,
+                            "data": "2021-10-08",
+                            "alert": "primary strong infection"
+                        },
+                        {   
+                            "value": 26,
+                            "data": "2021-10-09",
+                            "alert": "primary medium infection"
+                        },
+                        {   
+                            "value": 30,
+                            "data": "2021-10-10",
+                            "alert": "primary medium infection"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Foilar moistening",
+            "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/How_to_use_icon.svg/2214px-How_to_use_icon.svg.png",
+            "data":[
+                {
+                    "UDM": "°C",
+                    "samples": [
+                        {   
+                            "value": 28,
+                            "data": "2021-10-04",
+                            "alert": "primary medium infection"
+                        },
+                        {   
+                            "value": 25,
+                            "data": "2021-10-05",
+                            "alert": "primary medium infection"
+                        },
+                        {   
+                            "value": 25,
+                            "data": "2021-10-06"
+                        },
+                        {   
+                            "value": 23,
+                            "data": "2021-10-07"
+                        },
+                        {   
+                            "value": 23,
+                            "data": "2021-10-08",
+                            "alert": "primary strong infection"
+                        },
+                        {   
+                            "value": 26,
+                            "data": "2021-10-09",
+                            "alert": "primary medium infection"
+                        },
+                        {   
+                            "value": 30,
+                            "data": "2021-10-10",
+                            "alert": "primary medium infection"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Foilar moistening",
+            "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/How_to_use_icon.svg/2214px-How_to_use_icon.svg.png",
+            "data":[
+                {
+                    "UDM": "°C",
+                    "samples": [
+                        {   
+                            "value": 28,
+                            "data": "2021-10-04",
+                            "alert": "primary medium infection"
+                        },
+                        {   
+                            "value": 25,
+                            "data": "2021-10-05",
+                            "alert": "primary medium infection"
+                        },
+                        {   
+                            "value": 25,
+                            "data": "2021-10-06"
+                        },
+                        {   
+                            "value": 23,
+                            "data": "2021-10-07"
+                        },
+                        {   
+                            "value": 23,
+                            "data": "2021-10-08",
+                            "alert": "primary strong infection"
+                        },
+                        {   
+                            "value": 26,
+                            "data": "2021-10-09",
+                            "alert": "primary medium infection"
+                        },
+                        {   
+                            "value": 30,
+                            "data": "2021-10-10",
+                            "alert": "primary medium infection"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Foilar moistening",
+            "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/How_to_use_icon.svg/2214px-How_to_use_icon.svg.png",
+            "data":[
+                {
+                    "UDM": "°C",
+                    "samples": [
+                        {   
+                            "value": 28,
+                            "data": "2021-10-04",
+                            "alert": "primary medium infection"
+                        },
+                        {   
+                            "value": 25,
+                            "data": "2021-10-05",
+                            "alert": "primary medium infection"
+                        },
+                        {   
+                            "value": 25,
+                            "data": "2021-10-06"
+                        },
+                        {   
+                            "value": 23,
+                            "data": "2021-10-07"
+                        },
+                        {   
+                            "value": 23,
+                            "data": "2021-10-08",
+                            "alert": "primary strong infection"
+                        },
+                        {   
+                            "value": 26,
+                            "data": "2021-10-09",
+                            "alert": "primary medium infection"
+                        },
+                        {   
+                            "value": 30,
+                            "data": "2021-10-10",
+                            "alert": "primary medium infection"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Foilar moistening",
+            "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/How_to_use_icon.svg/2214px-How_to_use_icon.svg.png",
+            "data":[
+                {
+                    "UDM": "°C",
+                    "samples": [
+                        {   
+                            "value": 28,
+                            "data": "2021-10-04",
+                            "alert": "primary medium infection"
+                        },
+                        {   
+                            "value": 25,
+                            "data": "2021-10-05",
+                            "alert": "primary medium infection"
+                        },
+                        {   
+                            "value": 25,
+                            "data": "2021-10-06"
+                        },
+                        {   
+                            "value": 23,
+                            "data": "2021-10-07"
+                        },
+                        {   
+                            "value": 23,
+                            "data": "2021-10-08",
+                            "alert": "primary strong infection"
+                        },
+                        {   
+                            "value": 26,
+                            "data": "2021-10-09",
+                            "alert": "primary medium infection"
+                        },
+                        {   
+                            "value": 30,
+                            "data": "2021-10-10",
+                            "alert": "primary medium infection"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Foilar moistening",
+            "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/How_to_use_icon.svg/2214px-How_to_use_icon.svg.png",
+            "data":[
+                {
+                    "UDM": "°C",
+                    "samples": [
+                        {   
+                            "value": 28,
+                            "data": "2021-10-04",
+                            "alert": "primary medium infection"
+                        },
+                        {   
+                            "value": 25,
+                            "data": "2021-10-05",
+                            "alert": "primary medium infection"
+                        },
+                        {   
+                            "value": 25,
+                            "data": "2021-10-06"
+                        },
+                        {   
+                            "value": 23,
+                            "data": "2021-10-07"
+                        },
+                        {   
+                            "value": 23,
+                            "data": "2021-10-08",
+                            "alert": "primary strong infection"
+                        },
+                        {   
+                            "value": 26,
+                            "data": "2021-10-09",
+                            "alert": "primary medium infection"
+                        },
+                        {   
+                            "value": 30,
+                            "data": "2021-10-10",
+                            "alert": "primary medium infection"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Foilar moistening",
+            "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/How_to_use_icon.svg/2214px-How_to_use_icon.svg.png",
+            "data":[
+                {
+                    "UDM": "°C",
+                    "samples": [
+                        {   
+                            "value": 28,
+                            "data": "2021-10-04",
+                            "alert": "primary medium infection"
+                        },
+                        {   
+                            "value": 25,
+                            "data": "2021-10-05",
+                            "alert": "primary medium infection"
+                        },
+                        {   
+                            "value": 25,
+                            "data": "2021-10-06"
+                        },
+                        {   
+                            "value": 23,
+                            "data": "2021-10-07"
+                        },
+                        {   
+                            "value": 23,
+                            "data": "2021-10-08",
+                            "alert": "primary strong infection"
+                        },
+                        {   
+                            "value": 26,
+                            "data": "2021-10-09",
+                            "alert": "primary medium infection"
+                        },
+                        {   
+                            "value": 30,
+                            "data": "2021-10-10",
+                            "alert": "primary medium infection"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Foilar moistening",
+            "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/How_to_use_icon.svg/2214px-How_to_use_icon.svg.png",
+            "data":[
+                {
+                    "UDM": "°C",
+                    "samples": [
+                        {   
+                            "value": 28,
+                            "data": "2021-10-04",
+                            "alert": "primary medium infection"
+                        },
+                        {   
+                            "value": 25,
+                            "data": "2021-10-05",
+                            "alert": "primary medium infection"
+                        },
+                        {   
+                            "value": 25,
+                            "data": "2021-10-06"
+                        },
+                        {   
+                            "value": 23,
+                            "data": "2021-10-07"
+                        },
+                        {   
+                            "value": 23,
+                            "data": "2021-10-08",
+                            "alert": "primary strong infection"
+                        },
+                        {   
+                            "value": 26,
+                            "data": "2021-10-09",
+                            "alert": "primary medium infection"
+                        },
+                        {   
+                            "value": 30,
+                            "data": "2021-10-10",
+                            "alert": "primary medium infection"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Foilar moistening",
+            "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/How_to_use_icon.svg/2214px-How_to_use_icon.svg.png",
+            "data":[
+                {
+                    "UDM": "°C",
+                    "samples": [
+                        {   
+                            "value": 28,
+                            "data": "2021-10-04",
+                            "alert": "primary medium infection"
+                        },
+                        {   
+                            "value": 25,
+                            "data": "2021-10-05",
+                            "alert": "primary medium infection"
+                        },
+                        {   
+                            "value": 25,
+                            "data": "2021-10-06"
+                        },
+                        {   
+                            "value": 23,
+                            "data": "2021-10-07"
+                        },
+                        {   
+                            "value": 23,
+                            "data": "2021-10-08",
+                            "alert": "primary strong infection"
+                        },
+                        {   
+                            "value": 26,
+                            "data": "2021-10-09",
+                            "alert": "primary medium infection"
+                        },
+                        {   
+                            "value": 30,
+                            "data": "2021-10-10",
+                            "alert": "primary medium infection"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Foilar moistening",
+            "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/How_to_use_icon.svg/2214px-How_to_use_icon.svg.png",
+            "data":[
+                {
+                    "UDM": "°C",
+                    "samples": [
+                        {   
+                            "value": 28,
+                            "data": "2021-10-04",
+                            "alert": "primary medium infection"
+                        },
+                        {   
+                            "value": 25,
+                            "data": "2021-10-05",
+                            "alert": "primary medium infection"
+                        },
+                        {   
+                            "value": 25,
+                            "data": "2021-10-06"
+                        },
+                        {   
+                            "value": 23,
+                            "data": "2021-10-07"
+                        },
+                        {   
+                            "value": 23,
+                            "data": "2021-10-08",
+                            "alert": "primary strong infection"
+                        },
+                        {   
+                            "value": 26,
+                            "data": "2021-10-09",
+                            "alert": "primary medium infection"
+                        },
+                        {   
+                            "value": 30,
+                            "data": "2021-10-10",
+                            "alert": "primary medium infection"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "comments":[
+        "this is the first comment",
+        "and this is the second one"
+    ]
+}

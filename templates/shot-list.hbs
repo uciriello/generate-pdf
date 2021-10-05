@@ -1,0 +1,117 @@
+<style type="text/css">
+
+    body{
+        font-family: 'Roboto';
+        font-weight: 200;
+    }
+
+    .first-page{
+        height: 100%;
+    }
+
+    .report-header{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-items: center;
+        align-items: center;
+        padding-top: 40px;
+        padding-bottom: 30px;
+    }
+
+    .report-title{
+        padding-top: 20px;
+        padding-bottom: 20px;
+        font-size: 20px;
+        color: #658d1b
+    }
+
+    .logo-header-icon{
+        width: 100px;
+    }
+
+    .sensor-page{
+        height: 100%;
+        padding-top: 80px;
+    }
+
+    .sensor-description{
+        display: flex;
+        align-items: center;
+    }
+
+    .sensor-icon{
+        width: 20px !important;
+        padding-left: 20px;
+    }
+
+    .sensor-name{
+        padding-left: 20px;
+    }
+
+</style>
+
+<html>
+    
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+        <script src="https://rawgit.com/moment/moment/2.29.1/min/moment.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/chart.js@3.5.0/dist/chart.min.js"></script>  
+        <link href="https://fonts.googleapis.com/css2?family=Roboto" rel="stylesheet">
+    </head>
+    <body>
+        <span id="myspan"> hereismytext </span>
+        <div class="first-page">     
+            <div class="report-header">
+                <img src="https://advice-frutteti-backend-dev-agri-bucket.s3.eu-west-1.amazonaws.com/reportAssets/logo.jpg" class="logo-header-icon" alt="logo">
+                <span class="report-title">Weekly report for {{reportData}}</span>
+            </div>
+        </div>
+        {{#each sensors as |sensor|}}
+            <div class="sensor-page">
+                <div class="sensor-description">
+                    <img src={{sensor.iconUrl}} class="sensor-icon">
+                    <span class="sensor-name">{{sensor.name}}</span>
+                </div>
+                <div class="card" id="card-1">
+                    <div class="chart-canvas">
+                        <canvas id={{sensor.name}} + "-chart"></canvas>
+                    </div>
+                </div>
+            </div>
+        {{/each}}
+    
+        <script>
+            document.getElementById("myspan").textContent={{reportData}};
+            /*
+            var decodedJson = decodeURIComponent("{{{sensors}}}");
+            var jsonObj = JSON.parse(decodedJson);
+            {{sensors}}.forEach(sensor => {
+                var ctx = document.getElementById(sensor.name + '-chart').getContext('2d');
+                var myChart = new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: ['1', '2', '3', '4', '5', '6', '7'],
+                    datasets: [{
+                        data: [12, 19, 3, 5, 2, 3, 9],
+                        borderColor: [
+                            '#658d1b'
+                        ],
+                        borderWidth: 2
+                    }]
+                },
+                options: {
+                    scales: {
+                        y: {
+                            beginAtZero: true
+                        }
+                    }
+                }
+            });
+            });*/   
+        </script>
+
+    </body>
+</html>
